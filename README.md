@@ -1,2 +1,4 @@
-# liuwei
-[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
+# 3D Inpainting Implementation
+<p align="center">
+	<img src="images/nsfwCLIP.png" width="720">
+</p>
